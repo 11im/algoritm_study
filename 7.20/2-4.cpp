@@ -2,7 +2,7 @@
 #include <algorithm>
 
 #define MAX 501
-#define INF 987654321
+#define INF 987654321 //대소관계만 파악하면 되기 때문에 이 문제에서는 무한대로 초기화할 필요 없음
 
 using namespace std;
 

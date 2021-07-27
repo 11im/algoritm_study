@@ -1,4 +1,5 @@
 // 7.27 BFS https://programmers.co.kr/learn/courses/30/lessons/49189#
+//다익스트라로도 풀 수 있음
 
 #include <string>
 #include <vector>

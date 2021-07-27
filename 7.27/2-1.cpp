@@ -1,6 +1,6 @@
 // 7.27 BFS https://programmers.co.kr/learn/courses/30/lessons/49189#
 //다익스트라로도 풀 수 있음
-
+//bfs로 할 경우 전체 매트릭스를 구성하기 보다는 해당 점과 관련된 점들을 입력하는 게 좋음
 #include <string>
 #include <vector>
 #include <queue>
